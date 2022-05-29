@@ -1,4 +1,6 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Sou João Henrique 
+🎮Game Favorito Super Mario
+💻Estudante Tecnologia - Analise e Desenvolvimento de Sistema
 
 <div align="center">
   <a href="https://github.com/HenriquePST">
