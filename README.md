@@ -1,7 +1,9 @@
 Hi 👋 My name is João Henrique
 ==========================
 
-I study ADS  and I am in career transition, I working administrative assistant job graduated administration,
+
+I study ADS  and I am in career transition.
+I working administrative assistant job graduated administration.
 
 
 -----------------------------
