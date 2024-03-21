@@ -47,7 +47,7 @@ I have been studying and gaining experience in Java since the beginning of my co
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/HenriquePST">  <img https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePST&layout=compact /> </a>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePST&layout=compact)
 
 <a href="http://www.github.com/HenriquePST"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriquePST&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
