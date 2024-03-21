@@ -2,7 +2,7 @@ Hi 👋 My name is João Henrique
 ==========================
 
 
-I formard ADS - Analysis and development of system.
+I formed ADS - Analysis and development of system.
 I have been studying and gaining experience in Java since the beginning of my course in analysis and development, totaling 2.5 years.
 
 
