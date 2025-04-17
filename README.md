@@ -3,7 +3,6 @@ Hi 👋 My name is João Henrique
 
 
 I formed ADS - Analysis and development of system.
-I have been studying and gaining experience in Java since the beginning of my course in analysis and development, totaling 2.5 years.
 
 
 -----------------------------
@@ -11,9 +10,8 @@ I have been studying and gaining experience in Java since the beginning of my co
 * 🌍  I'm based in Recife, Brazil
 * ✉️  You can contact me at [joaohenrique2@hotmail.com](mailto:joaohenrique2@hotmail.com).
 * 🚀  I'm currently working on [ADM Animal Nutrition ](https://www.adm.com/en-us/products-services/animal-nutrition/)
-* 🧠  I have been studying and gaining experience in Java for 2.5 years.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is soccer.
+* ⚡  I love sports.
 
 
 ### Skills
