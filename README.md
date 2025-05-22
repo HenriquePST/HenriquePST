@@ -2,14 +2,13 @@ Hi 👋 My name is João Henrique
 ==========================
 
 
-I formed ADS - Analysis and development of system.
+Graduated in Systems Analysis and Development. 🖥.
 
 
 -----------------------------
 
 * 🌍  I'm based in Recife, Brazil
 * ✉️  You can contact me at [joaohenrique2@hotmail.com](mailto:joaohenrique2@hotmail.com).
-* 🚀  I'm currently working on [ADM Animal Nutrition ](https://www.adm.com/en-us/products-services/animal-nutrition/)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports.
 
